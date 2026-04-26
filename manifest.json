@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "979821292838",
+    "name": "序列_Kipfel",
+    "description": "Kipfel可爱喵",
+    "preview": [
+      "画板 1.png",
+      "画板 4.png",
+      "画板 5.png"
+    ],
+    "icon": "序列LOGO.png",
+    "cover": "画板 1.png",
+    "source_url": "https://github.com/ChiHuan0807/979821292838_AstroBox_Release",
+    "author": [
+      {
+        "name": "ChiHuan0807",
+        "author_url": "https://astrobooox-ng.waijade.cn/publish"
+      },
+      {
+        "name": "点击购买~",
+        "author_url": "https://afdian.com/item/eae104f8b26911f0a44d52540025c377"
+      }
+    ]
+  },
+  "downloads": {
+    "p65": {
+      "version": "1.0.4",
+      "file_name": "序列_Kipfel_RW6.face"
+    },
+    "n67": {
+      "version": "1.0.4",
+      "file_name": "序列_Kipfel_9P.face"
+    }
+  }
+}
