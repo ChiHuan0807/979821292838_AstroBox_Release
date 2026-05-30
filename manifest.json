@@ -4,12 +4,12 @@
     "name": "序列_Kipfel",
     "description": "Kipfel可爱喵",
     "preview": [
-      "画板 1.png",
-      "画板 4.png",
-      "画板 5.png"
+      "1.png",
+      "2.png",
+      "3.png"
     ],
     "icon": "序列LOGO.png",
-    "cover": "画板 1.png",
+    "cover": "1.png",
     "source_url": "https://github.com/ChiHuan0807/979821292838_AstroBox_Release",
     "author": [
       {
@@ -30,6 +30,10 @@
     "n67": {
       "version": "1.0.4",
       "file_name": "序列_Kipfel_9P.face"
+    },
+    "p67": {
+      "version": "1.0.4",
+      "file_name": "序列_Kipfel_10P.bin"
     }
   }
 }
